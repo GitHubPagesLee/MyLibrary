@@ -5,17 +5,6 @@ html{
 body{
     background-color: #68cdd5;
 }
-.container:after{
-    display:block;
-    clear:both;
-    content:"";
-    visibility:hidden;
-    overflow: hidden;
-    height:0
-}
-.container{
-    zoom: 1;
-}
 .return{
     margin-top: 2rem;
     margin-left: 0.5rem;
@@ -64,4 +53,14 @@ body{
     margin-right: 5rem;
     text-align: right;
 }
-
+.clearfix:after{
+    display:block;
+    clear:both;
+    content:"";
+    visibility:hidden;
+    overflow: hidden;
+    height:0;
+}
+.clearfix {
+    zoom: 1;
+}

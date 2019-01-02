@@ -53,7 +53,7 @@ body{
     margin-right: 5rem;
     text-align: right;
 }
-.clearfix:after{
+.container::after {
     display:block;
     clear:both;
     content:"";

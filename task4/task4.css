@@ -65,7 +65,6 @@ header .sign {
     font-size: 1.4rem;
     top: 0.1rem;
     position: absolute;
-    outline: none;
 }
 
 :-moz-placeholder {

@@ -57,10 +57,5 @@ body{
     display:block;
     clear:both;
     content:"";
-    visibility:hidden;
-    overflow: hidden;
-    height:0;
 }
-.clearfix {
-    zoom: 1;
-}
+

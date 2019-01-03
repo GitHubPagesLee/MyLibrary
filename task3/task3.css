@@ -53,7 +53,7 @@ body{
     margin-right: 5rem;
     text-align: right;
 }
-.container::after {
+.icons::after {
     display:block;
     clear:both;
     content:"";

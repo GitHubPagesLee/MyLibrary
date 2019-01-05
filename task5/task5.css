@@ -100,7 +100,6 @@ header img {
 
 .info {
     margin-left: 2rem;
-
     font-size: 1.6rem;
     color: #333;
 }
@@ -113,33 +112,38 @@ header img {
     color: #e26163
 }
 
+.info .specific {
+    margin-left: 1rem;
+}
+
 .info .specific i {
     width: 1.3rem;
     height: 1.3rem;
     background: url(images/stars.png) no-repeat;
     background-size: cover;
-    margin-left: 1rem;
+
 }
 
 .no {
     margin-left: 1rem;
 }
 
-.info .specific .home, .same {
+.info .home, .same {
     padding-right: 1rem;
     margin-left: 1rem;
-
+    white-space: nowrap;
 }
 
 .line {
     display: inline-block;
-    border-right: 1px solid #e1e5e7;
+    border-left: 1px solid #e1e5e7;
     height: 2rem;
     margin-right: 1rem;
 }
 
 .introduce {
     height: auto;
+
 }
 
 .introduce .ability {

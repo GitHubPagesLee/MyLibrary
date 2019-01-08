@@ -18,6 +18,7 @@ header {
     margin-bottom: 1rem;
     position: relative;
     display: flex;
+    justify-content:center;
     color: #fff;
     background-color: #5fc0cd;
 }
@@ -31,10 +32,6 @@ header .close {
 header .login {
     position: absolute;
     font-size: 2rem;
-    text-align: center;
-    left: 0;
-    right: 0;
-    margin: 0;
 }
 
 header .sign {
@@ -68,7 +65,6 @@ header .sign {
     font-size: 1.4rem;
     top: 0.1rem;
     position: absolute;
-    outline: none;
 }
 
 :-moz-placeholder {
@@ -118,15 +114,8 @@ a {
     text-decoration: none;
 }
 
-.clearfix:after {
+a::after {
     display: block;
     clear: both;
     content: "";
-    visibility: hidden;
-    overflow: hidden;
-    height: 0;
-}
-
-.clearfix {
-    zoom: 1;
 }

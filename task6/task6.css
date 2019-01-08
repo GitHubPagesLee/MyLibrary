@@ -106,6 +106,8 @@ header {
 }
 
 .neck .dropdown .btn-default {
+    border-radius: 0;
+    border-style: none;
     color: #999;
     background-color: #fff;
     font-size: 1rem;

@@ -12,51 +12,75 @@ body {
 }
 
 header {
+    position: fixed;
+    top: 0;
     width: 100%;
     height: 5rem;
     background-color: #5fc0cd;
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    z-index: 100;
+    text-align: center;
 }
 
-header .heads {
-    display: flex;
-    padding-top: 0.7rem;
-    justify-content: center;
+.top {
+    position: relative;
+    top: 50%;
+    padding: 0 4rem;
+    width: 100%;
+    height: 3.5rem;
+    font-size: 0;
+    transform: translateY(-50%);
 }
 
-header .heads .employer, .protect {
-    height: 3.6rem;
-    width: 7rem;
-    border: none;
-    border-radius: 0.5rem;
-    font-size: 1.6rem;
-
+.top-button {
+    position: relative;
+    padding: 0;
+    width: 7.2rem;
+    height: 100%;
+    font-size: 1.7rem;
+    text-align: center;
+    border-style: none;
+    outline-style: none;
 }
 
-header .heads .employer {
-    color: #fff;
+.button-left {
     background-color: #55a8b3;
-    left: 50%;
-    margin-left: -.1rem;
+    color: #fff;
+    border-bottom-left-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    z-index: 0;
 }
 
-header .heads .protect {
-    color: #5fc0cd;
+.button-left:focus {
     background-color: #fff;
+    color: #5fc0cd;
+    border-radius: 0.5rem;
+    z-index: 2;
 }
 
-header .location {
-    width: 2.2rem;
-    height: 2.2rem;
-    background-image: url(images/location.png);
-    background-size: 100% 100%;
+.button-right {
+    background-color: #55a8b3;
+    color: #fff;
+    border-bottom-right-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    z-index: 1;
+}
+
+.button-right:focus {
+    background-color: #fff;
+    color: #5fc0cd;
+    border-radius: 0.5rem;
+    z-index: 1;
+}
+
+.bg-location {
+    transform: scale(.5, .5);
+    border-style: none;
+    outline-style: none;
     position: absolute;
     right: 2rem;
-    top: 1.3rem;
-
+    top: 0.5rem;
+    width: 4.2rem;
+    height: 4.4rem;
+    background: url(images/css_sprites.png) no-repeat -12.4rem -1rem;
 }
 
 .neck {
@@ -65,7 +89,8 @@ header .location {
     font-size: 2rem;
     color: #999;
     display: flex;
-    padding-top: 5rem;
+    position: absolute;
+    margin-top: 1.5rem;
 }
 
 .neck .dropdown {
@@ -85,15 +110,21 @@ header .location {
     background-color: #fff;
     font-size: 1rem;
     outline: none;
+
 }
 
 .btn .caret {
     margin-left: 1.5rem;
 }
 
+.contain {
+    padding-top: 8rem;
+}
+
 .contain .info {
     padding: 1.5rem;
     border-bottom: 1px solid #e1e5e7;
+    margin-bottom: 0;
 }
 
 .info .first img {
@@ -156,6 +187,7 @@ footer {
     width: 100%;
     height: 5rem;
     background-color: #f8fafb;
+    border-top: solid #e2eaec 1px;
     font-size: 1rem;
     bottom: 0;
     position: fixed;
@@ -184,38 +216,39 @@ footer .low {
 }
 
 
-.low .homes .ho {
-    border: none;
-    background-color: #f8fafb;
-    width: 2.3rem;
-    height: 2.2rem;
+.low .homes .bg-home {
+    border-style: none;
+    outline-style: none;
     position: absolute;
-    top: 1rem;
-    left: 8rem;
-    background-image: url(images/home.png);
-    background-size: 100% 100%;
-}
-
-.low .middle {
-    border: none;
-    background-color: #f8fafb;
-    background-image: url(images/pen.png);
-    background-size: 100% 100%;
+    top: 0.1rem;
+    left: 7rem;
     width: 4.6rem;
-    height: 4.6rem;
-    margin-top: 0.2rem;
+    height: 4rem;
+    transform: scale(.5, .5);
+    background: url(images/css_sprites.png) no-repeat -1rem -12.4rem;
+}
+
+.low .bg-pen {
+    border-style: none;
+    outline-style: none;
+    width: 9.4rem;
+    height: 9.4rem;
+    transform: scale(.5, .5);
+    background: url(images/css_sprites.png) -1rem -1rem;
+    margin-top: -2rem;
 
 }
 
-.low .peoples .pe {
-    border: none;
-    background-color: #f8fafb;
-    width: 2.3rem;
-    height: 2.2rem;
+.low .peoples .bg-people {
+    border-style: none;
+    outline-style: none;
     position: absolute;
-    top: 1rem;
-    right: 8rem;
-    background-image: url(images/people.png);
-    background-size: 100% 100%;
+    top: 0.1rem;
+    right: 7.2rem;
+    transform: scale(.5, .5);
+    width: 4.2rem;
+    height: 4.1rem;
+    background: url(images/css_sprites.png) -18.6rem -1rem;
 }
+
 

@@ -170,8 +170,11 @@ footer {
 footer .btn1, .btn2 {
     width: 40%;
     height: 4.5rem;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     font-size: 1.6rem;
+    outline-style: none;
+    box-shadow: none;
+    cursor: pointer;
 }
 
 footer .btn1 {

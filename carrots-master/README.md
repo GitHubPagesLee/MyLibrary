@@ -12,9 +12,16 @@ UI:1人.
 
 QA:1人.
 
-前端：2人,技术：
+前端：2人,
+
+技术：
+
 Html,Css,Js,Bootstrap,jQuery,Angular,Ajax.
+
 PS,SVN.
 
-后端：2人,技术：
+后端：2人,
+
+技术：
+
 Java,Nginx.

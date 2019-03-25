@@ -1,87 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/js/task2-4/css/result.less" line="61" mnemonic="2" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="3ed194bb-bfdb-4cd1-9bf0-920f6bb3b1c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1b.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1c.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1d.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/1e.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/6js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/7js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/8js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task1/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task1/task1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task1/task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task1/task1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task2-4/task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task2-4/task2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task2-4/task3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task2-4/task4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task2-4/task5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task2-4/task6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task2-4/task7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task10/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task10/task10.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task10/task10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task11/less/task11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task11/less/task11.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task11/task11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6/6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6/6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7/task7-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7/task7-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7/task7-2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7/task7-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7/task7-3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7/task7-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/basess.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8/task8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task9/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/task4.css" beforeDir="false" afterPath="$PROJECT_DIR$/task4/task4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/task6/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/task6/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/task6/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/task6/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/task6/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/images/css_sprites.png" beforeDir="false" afterPath="$PROJECT_DIR$/task6/images/css_sprites.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/task6/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/task6/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/task6/js/npm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/task6.css" beforeDir="false" afterPath="$PROJECT_DIR$/task6/task6.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/task6.html" beforeDir="false" afterPath="$PROJECT_DIR$/task6/task6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -94,32 +15,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/task5/css/index.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/task5/css/index.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/task5/script/input.js">
+        <entry file="file://$PROJECT_DIR$/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            <state relative-caret-position="314">
+              <caret line="210" column="30" lean-forward="true" selection-start-line="210" selection-start-column="30" selection-end-line="210" selection-end-column="30" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/task5/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -140,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/task8/task8-1.html" />
         <option value="$PROJECT_DIR$/task8/basess.css" />
         <option value="$PROJECT_DIR$/task8/task8.html" />
         <option value="$PROJECT_DIR$/task8/task8.css" />
@@ -191,20 +92,22 @@
         <option value="$PROJECT_DIR$/js/task5/css/index.less" />
         <option value="$PROJECT_DIR$/js/task5/task5.html" />
         <option value="$PROJECT_DIR$/js/task5/script/input.js" />
+        <option value="$PROJECT_DIR$/resume/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="52" />
-    <option name="y" value="57" />
-    <option name="width" value="1524" />
-    <option name="height" value="1103" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="36" />
+    <option name="width" value="1220" />
+    <option name="height" value="883" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,41 +118,12 @@
             <path>
               <item name="Task" type="b2602c69:ProjectViewProjectNode" />
               <item name="Task" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="task5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="task5" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="task5" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="index.less" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="Task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="task5" type="462c0819:PsiDirectoryNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,17 +186,18 @@
       <workItem from="1553128420314" duration="4793000" />
       <workItem from="1553166336041" duration="4298000" />
       <workItem from="1553214592485" duration="598000" />
+      <workItem from="1553498902924" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228212000" />
+    <option name="totallyTimeSpent" value="229291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="46" width="1219" height="882" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20710059" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16182299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -335,7 +210,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32718122" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32577905" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3290938" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -366,13 +241,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task14/html/one.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task14/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
@@ -641,6 +509,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/task5/task5.html" />
+    <entry file="file://$PROJECT_DIR$/js/task5/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/task5/css/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -651,13 +522,17 @@
     <entry file="file://$PROJECT_DIR$/js/task5/css/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/task5/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/task5/script/input.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="210" column="30" lean-forward="true" selection-start-line="210" selection-start-column="30" selection-end-line="210" selection-end-column="30" />
         </state>
       </provider>
     </entry>
